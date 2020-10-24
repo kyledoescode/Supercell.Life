@@ -1,2 +1,1 @@
-# Supercell.Life
-https://github.com/kylecourounis/Supercell.Life
+# ACTUAL PROJECT HERE: https://github.com/kylecourounis/Supercell.Life
